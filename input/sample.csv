@@ -1,0 +1,301 @@
+date,incident_id,plant,line,severity,status,incident_count,description
+2025-01-01,INC-1000,Plant A,Line 1,Medium,Open,5,Minor slip incident reported.
+2025-01-02,INC-1001,Plant B,Line 2,Medium,Open,6,Machine maintenance overdue.
+2025-01-03,INC-1002,Plant A,Line 1,Critical,Open,4,Machine maintenance overdue.
+2025-01-04,INC-1003,Plant C,Line 3,Critical,Open,7,Minor slip incident reported.
+2025-01-05,INC-1004,Plant A,Line 3,Medium,Closed,6,Machine maintenance overdue.
+2025-01-06,INC-1005,Plant B,Line 1,Medium,Closed,9,Machine maintenance overdue.
+2025-01-07,INC-1006,Plant C,Line 1,Low,Open,1,Spill in chemical storage area.
+2025-01-08,INC-1007,Plant B,Line 1,High,Closed,9,Near-miss reported during shift change.
+2025-01-09,INC-1008,Plant A,Line 3,Critical,Closed,9,Spill in chemical storage area.
+2025-01-10,INC-1009,Plant A,Line 3,High,Closed,7,Machine maintenance overdue.
+2025-01-11,INC-1010,Plant B,Line 1,Medium,Open,10,Machine maintenance overdue.
+2025-01-12,INC-1011,Plant B,Line 3,High,Closed,2,Safety PPE non-compliance observed.
+2025-01-13,INC-1012,Plant C,Line 2,High,Open,8,Safety PPE non-compliance observed.
+2025-01-14,INC-1013,Plant B,Line 1,Critical,Closed,0,Machine maintenance overdue.
+2025-01-15,INC-1014,Plant C,Line 3,Medium,In Progress,10,Near-miss reported during shift change.
+2025-01-16,INC-1015,Plant A,Line 2,Medium,Closed,10,Spill in chemical storage area.
+2025-01-17,INC-1016,Plant B,Line 3,High,Open,1,Safety PPE non-compliance observed.
+2025-01-18,INC-1017,Plant A,Line 3,Medium,Closed,7,Near-miss reported during shift change.
+2025-01-19,INC-1018,Plant B,Line 3,Low,In Progress,6,Near-miss reported during shift change.
+2025-01-20,INC-1019,Plant B,Line 3,Critical,In Progress,2,Safety PPE non-compliance observed.
+2025-01-21,INC-1020,Plant B,Line 1,Low,Open,0,Near-miss reported during shift change.
+2025-01-22,INC-1021,Plant C,Line 1,Medium,Closed,1,Minor slip incident reported.
+2025-01-23,INC-1022,Plant B,Line 1,Critical,In Progress,10,Safety PPE non-compliance observed.
+2025-01-24,INC-1023,Plant B,Line 1,High,In Progress,5,Minor slip incident reported.
+2025-01-25,INC-1024,Plant A,Line 2,High,Open,10,Minor slip incident reported.
+2025-01-26,INC-1025,Plant A,Line 1,Low,Closed,4,Minor slip incident reported.
+2025-01-27,INC-1026,Plant A,Line 2,Critical,In Progress,4,Minor slip incident reported.
+2025-01-28,INC-1027,Plant A,Line 2,High,Open,6,Spill in chemical storage area.
+2025-01-29,INC-1028,Plant A,Line 1,High,Closed,6,Minor slip incident reported.
+2025-01-30,INC-1029,Plant B,Line 1,High,Open,10,Minor slip incident reported.
+2025-01-31,INC-1030,Plant C,Line 1,Critical,In Progress,1,Minor slip incident reported.
+2025-02-01,INC-1031,Plant A,Line 1,Critical,Open,9,Machine maintenance overdue.
+2025-02-02,INC-1032,Plant C,Line 1,Critical,In Progress,4,Machine maintenance overdue.
+2025-02-03,INC-1033,Plant C,Line 3,Low,Closed,2,Minor slip incident reported.
+2025-02-04,INC-1034,Plant B,Line 1,Critical,Open,9,Safety PPE non-compliance observed.
+2025-02-05,INC-1035,Plant C,Line 3,High,In Progress,0,Minor slip incident reported.
+2025-02-06,INC-1036,Plant A,Line 3,Critical,Closed,10,Machine maintenance overdue.
+2025-02-07,INC-1037,Plant A,Line 2,Medium,In Progress,9,Machine maintenance overdue.
+2025-02-08,INC-1038,Plant C,Line 3,Low,In Progress,8,Near-miss reported during shift change.
+2025-02-09,INC-1039,Plant C,Line 1,Critical,Closed,6,Spill in chemical storage area.
+2025-02-10,INC-1040,Plant A,Line 1,Low,Closed,5,Safety PPE non-compliance observed.
+2025-02-11,INC-1041,Plant B,Line 1,High,In Progress,5,Minor slip incident reported.
+2025-02-12,INC-1042,Plant C,Line 3,High,Open,3,Safety PPE non-compliance observed.
+2025-02-13,INC-1043,Plant A,Line 3,Critical,In Progress,4,Machine maintenance overdue.
+2025-02-14,INC-1044,Plant C,Line 1,Medium,Closed,8,Near-miss reported during shift change.
+2025-02-15,INC-1045,Plant C,Line 3,Medium,Closed,1,Minor slip incident reported.
+2025-02-16,INC-1046,Plant B,Line 2,Critical,Closed,2,Spill in chemical storage area.
+2025-02-17,INC-1047,Plant A,Line 3,Low,In Progress,8,Machine maintenance overdue.
+2025-02-18,INC-1048,Plant C,Line 3,Low,In Progress,7,Minor slip incident reported.
+2025-02-19,INC-1049,Plant A,Line 1,High,Open,3,Safety PPE non-compliance observed.
+2025-02-20,INC-1050,Plant C,Line 1,High,In Progress,5,Safety PPE non-compliance observed.
+2025-02-21,INC-1051,Plant C,Line 2,Low,In Progress,6,Machine maintenance overdue.
+2025-02-22,INC-1052,Plant B,Line 3,Low,In Progress,3,Near-miss reported during shift change.
+2025-02-23,INC-1053,Plant A,Line 3,Medium,Open,1,Safety PPE non-compliance observed.
+2025-02-24,INC-1054,Plant C,Line 2,Low,In Progress,3,Spill in chemical storage area.
+2025-02-25,INC-1055,Plant C,Line 1,Low,In Progress,6,Minor slip incident reported.
+2025-02-26,INC-1056,Plant A,Line 1,Medium,In Progress,7,Safety PPE non-compliance observed.
+2025-02-27,INC-1057,Plant B,Line 2,Medium,Open,6,Safety PPE non-compliance observed.
+2025-02-28,INC-1058,Plant A,Line 2,Critical,In Progress,7,Minor slip incident reported.
+2025-03-01,INC-1059,Plant A,Line 3,High,In Progress,3,Machine maintenance overdue.
+2025-03-02,INC-1060,Plant B,Line 2,Medium,In Progress,1,Spill in chemical storage area.
+2025-03-03,INC-1061,Plant A,Line 3,Critical,Open,5,Machine maintenance overdue.
+2025-03-04,INC-1062,Plant C,Line 1,Low,Closed,4,Safety PPE non-compliance observed.
+2025-03-05,INC-1063,Plant C,Line 3,High,Closed,2,Spill in chemical storage area.
+2025-03-06,INC-1064,Plant A,Line 1,Low,Open,7,Safety PPE non-compliance observed.
+2025-03-07,INC-1065,Plant C,Line 1,Low,Closed,1,Spill in chemical storage area.
+2025-03-08,INC-1066,Plant C,Line 2,Critical,Closed,4,Safety PPE non-compliance observed.
+2025-03-09,INC-1067,Plant C,Line 2,Medium,In Progress,0,Near-miss reported during shift change.
+2025-03-10,INC-1068,Plant C,Line 1,High,Open,7,Minor slip incident reported.
+2025-03-11,INC-1069,Plant A,Line 2,Critical,Closed,7,Minor slip incident reported.
+2025-03-12,INC-1070,Plant A,Line 1,Low,Open,1,Minor slip incident reported.
+2025-03-13,INC-1071,Plant B,Line 3,High,Closed,10,Machine maintenance overdue.
+2025-03-14,INC-1072,Plant A,Line 1,High,In Progress,7,Machine maintenance overdue.
+2025-03-15,INC-1073,Plant A,Line 1,Critical,Closed,7,Near-miss reported during shift change.
+2025-03-16,INC-1074,Plant C,Line 2,Medium,Open,6,Near-miss reported during shift change.
+2025-03-17,INC-1075,Plant B,Line 3,High,In Progress,2,Minor slip incident reported.
+2025-03-18,INC-1076,Plant C,Line 3,Medium,In Progress,4,Spill in chemical storage area.
+2025-03-19,INC-1077,Plant A,Line 1,Medium,In Progress,8,Minor slip incident reported.
+2025-03-20,INC-1078,Plant B,Line 1,Low,In Progress,10,Machine maintenance overdue.
+2025-03-21,INC-1079,Plant C,Line 1,Low,In Progress,7,Minor slip incident reported.
+2025-03-22,INC-1080,Plant A,Line 2,Low,In Progress,4,Machine maintenance overdue.
+2025-03-23,INC-1081,Plant B,Line 3,High,Open,2,Machine maintenance overdue.
+2025-03-24,INC-1082,Plant B,Line 3,Critical,Closed,6,Machine maintenance overdue.
+2025-03-25,INC-1083,Plant A,Line 3,Critical,Open,8,Spill in chemical storage area.
+2025-03-26,INC-1084,Plant B,Line 1,Medium,Open,5,Machine maintenance overdue.
+2025-03-27,INC-1085,Plant B,Line 2,High,Closed,9,Spill in chemical storage area.
+2025-03-28,INC-1086,Plant B,Line 1,Critical,Closed,9,Spill in chemical storage area.
+2025-03-29,INC-1087,Plant B,Line 3,Medium,Open,1,Machine maintenance overdue.
+2025-03-30,INC-1088,Plant B,Line 3,Low,Closed,0,Near-miss reported during shift change.
+2025-03-31,INC-1089,Plant A,Line 2,Medium,Open,1,Near-miss reported during shift change.
+2025-04-01,INC-1090,Plant B,Line 3,Medium,Open,0,Machine maintenance overdue.
+2025-04-02,INC-1091,Plant C,Line 3,Critical,Open,6,Safety PPE non-compliance observed.
+2025-04-03,INC-1092,Plant B,Line 2,Critical,Closed,5,Near-miss reported during shift change.
+2025-04-04,INC-1093,Plant A,Line 2,Low,Closed,9,Safety PPE non-compliance observed.
+2025-04-05,INC-1094,Plant C,Line 1,Low,In Progress,0,Minor slip incident reported.
+2025-04-06,INC-1095,Plant A,Line 3,Critical,In Progress,10,Spill in chemical storage area.
+2025-04-07,INC-1096,Plant B,Line 1,Critical,Open,6,Safety PPE non-compliance observed.
+2025-04-08,INC-1097,Plant B,Line 1,High,Open,10,Near-miss reported during shift change.
+2025-04-09,INC-1098,Plant C,Line 1,Medium,Open,1,Near-miss reported during shift change.
+2025-04-10,INC-1099,Plant B,Line 1,High,Open,10,Safety PPE non-compliance observed.
+2025-04-11,INC-1100,Plant C,Line 3,Low,In Progress,0,Near-miss reported during shift change.
+2025-04-12,INC-1101,Plant A,Line 2,Medium,Open,7,Machine maintenance overdue.
+2025-04-13,INC-1102,Plant C,Line 3,High,Open,6,Spill in chemical storage area.
+2025-04-14,INC-1103,Plant C,Line 2,Medium,In Progress,5,Spill in chemical storage area.
+2025-04-15,INC-1104,Plant C,Line 1,Medium,In Progress,0,Safety PPE non-compliance observed.
+2025-04-16,INC-1105,Plant C,Line 1,High,Closed,5,Spill in chemical storage area.
+2025-04-17,INC-1106,Plant B,Line 3,Medium,In Progress,1,Machine maintenance overdue.
+2025-04-18,INC-1107,Plant C,Line 2,Medium,Open,5,Spill in chemical storage area.
+2025-04-19,INC-1108,Plant B,Line 3,Critical,Closed,6,Minor slip incident reported.
+2025-04-20,INC-1109,Plant C,Line 3,Critical,Closed,2,Machine maintenance overdue.
+2025-04-21,INC-1110,Plant C,Line 3,Medium,In Progress,2,Spill in chemical storage area.
+2025-04-22,INC-1111,Plant C,Line 3,Medium,Closed,5,Machine maintenance overdue.
+2025-04-23,INC-1112,Plant B,Line 2,Critical,In Progress,5,Machine maintenance overdue.
+2025-04-24,INC-1113,Plant A,Line 1,High,Open,9,Minor slip incident reported.
+2025-04-25,INC-1114,Plant A,Line 3,Critical,In Progress,2,Minor slip incident reported.
+2025-04-26,INC-1115,Plant C,Line 2,Medium,Open,0,Safety PPE non-compliance observed.
+2025-04-27,INC-1116,Plant C,Line 2,Medium,In Progress,0,Near-miss reported during shift change.
+2025-04-28,INC-1117,Plant B,Line 3,Low,Closed,9,Minor slip incident reported.
+2025-04-29,INC-1118,Plant A,Line 1,Low,In Progress,4,Spill in chemical storage area.
+2025-04-30,INC-1119,Plant A,Line 3,High,Open,8,Minor slip incident reported.
+2025-05-01,INC-1120,Plant B,Line 2,Low,Open,9,Machine maintenance overdue.
+2025-05-02,INC-1121,Plant A,Line 3,High,In Progress,5,Minor slip incident reported.
+2025-05-03,INC-1122,Plant B,Line 1,Medium,Open,10,Spill in chemical storage area.
+2025-05-04,INC-1123,Plant B,Line 1,High,In Progress,0,Machine maintenance overdue.
+2025-05-05,INC-1124,Plant B,Line 2,Low,In Progress,4,Minor slip incident reported.
+2025-05-06,INC-1125,Plant A,Line 1,Critical,Open,9,Minor slip incident reported.
+2025-05-07,INC-1126,Plant B,Line 1,Low,Closed,2,Machine maintenance overdue.
+2025-05-08,INC-1127,Plant C,Line 2,Critical,Closed,2,Spill in chemical storage area.
+2025-05-09,INC-1128,Plant B,Line 1,Medium,In Progress,3,Machine maintenance overdue.
+2025-05-10,INC-1129,Plant B,Line 2,Medium,In Progress,6,Machine maintenance overdue.
+2025-05-11,INC-1130,Plant A,Line 1,Critical,In Progress,9,Minor slip incident reported.
+2025-05-12,INC-1131,Plant A,Line 2,High,Open,6,Machine maintenance overdue.
+2025-05-13,INC-1132,Plant B,Line 3,Medium,Closed,6,Spill in chemical storage area.
+2025-05-14,INC-1133,Plant A,Line 3,Medium,Closed,2,Minor slip incident reported.
+2025-05-15,INC-1134,Plant C,Line 3,Low,Open,9,Spill in chemical storage area.
+2025-05-16,INC-1135,Plant C,Line 2,Critical,In Progress,9,Safety PPE non-compliance observed.
+2025-05-17,INC-1136,Plant C,Line 3,Low,Closed,3,Minor slip incident reported.
+2025-05-18,INC-1137,Plant C,Line 2,Critical,In Progress,2,Spill in chemical storage area.
+2025-05-19,INC-1138,Plant C,Line 1,High,Closed,5,Machine maintenance overdue.
+2025-05-20,INC-1139,Plant B,Line 2,High,In Progress,6,Safety PPE non-compliance observed.
+2025-05-21,INC-1140,Plant A,Line 2,Low,In Progress,8,Minor slip incident reported.
+2025-05-22,INC-1141,Plant B,Line 1,Low,Open,0,Minor slip incident reported.
+2025-05-23,INC-1142,Plant B,Line 3,Critical,Open,3,Spill in chemical storage area.
+2025-05-24,INC-1143,Plant C,Line 1,Critical,Closed,8,Machine maintenance overdue.
+2025-05-25,INC-1144,Plant A,Line 3,Medium,In Progress,1,Safety PPE non-compliance observed.
+2025-05-26,INC-1145,Plant C,Line 3,Critical,Closed,10,Safety PPE non-compliance observed.
+2025-05-27,INC-1146,Plant B,Line 1,Critical,In Progress,0,Near-miss reported during shift change.
+2025-05-28,INC-1147,Plant B,Line 1,Medium,Closed,10,Machine maintenance overdue.
+2025-05-29,INC-1148,Plant B,Line 2,Critical,In Progress,2,Safety PPE non-compliance observed.
+2025-05-30,INC-1149,Plant C,Line 1,Critical,Closed,3,Near-miss reported during shift change.
+2025-05-31,INC-1150,Plant A,Line 1,Low,Open,3,Near-miss reported during shift change.
+2025-06-01,INC-1151,Plant B,Line 1,High,In Progress,8,Spill in chemical storage area.
+2025-06-02,INC-1152,Plant A,Line 2,Low,Open,4,Safety PPE non-compliance observed.
+2025-06-03,INC-1153,Plant C,Line 3,Medium,Closed,4,Machine maintenance overdue.
+2025-06-04,INC-1154,Plant B,Line 1,Medium,In Progress,1,Near-miss reported during shift change.
+2025-06-05,INC-1155,Plant C,Line 3,Medium,Closed,8,Near-miss reported during shift change.
+2025-06-06,INC-1156,Plant C,Line 2,Medium,Closed,5,Machine maintenance overdue.
+2025-06-07,INC-1157,Plant A,Line 1,Critical,In Progress,1,Near-miss reported during shift change.
+2025-06-08,INC-1158,Plant C,Line 2,Medium,In Progress,4,Near-miss reported during shift change.
+2025-06-09,INC-1159,Plant C,Line 3,Low,Closed,8,Machine maintenance overdue.
+2025-06-10,INC-1160,Plant C,Line 2,High,Closed,1,Safety PPE non-compliance observed.
+2025-06-11,INC-1161,Plant B,Line 1,High,In Progress,6,Safety PPE non-compliance observed.
+2025-06-12,INC-1162,Plant C,Line 3,Low,Open,0,Machine maintenance overdue.
+2025-06-13,INC-1163,Plant B,Line 3,Low,Closed,4,Machine maintenance overdue.
+2025-06-14,INC-1164,Plant B,Line 2,High,Closed,0,Near-miss reported during shift change.
+2025-06-15,INC-1165,Plant C,Line 1,Low,Open,8,Machine maintenance overdue.
+2025-06-16,INC-1166,Plant B,Line 3,Critical,Closed,3,Near-miss reported during shift change.
+2025-06-17,INC-1167,Plant C,Line 2,Medium,In Progress,2,Near-miss reported during shift change.
+2025-06-18,INC-1168,Plant C,Line 2,High,In Progress,0,Minor slip incident reported.
+2025-06-19,INC-1169,Plant A,Line 1,Medium,Closed,7,Near-miss reported during shift change.
+2025-06-20,INC-1170,Plant C,Line 2,High,Open,0,Near-miss reported during shift change.
+2025-06-21,INC-1171,Plant B,Line 3,High,Open,7,Minor slip incident reported.
+2025-06-22,INC-1172,Plant A,Line 3,High,Closed,1,Safety PPE non-compliance observed.
+2025-06-23,INC-1173,Plant C,Line 2,Critical,In Progress,1,Safety PPE non-compliance observed.
+2025-06-24,INC-1174,Plant A,Line 2,Medium,In Progress,0,Spill in chemical storage area.
+2025-06-25,INC-1175,Plant B,Line 3,Low,Closed,0,Spill in chemical storage area.
+2025-06-26,INC-1176,Plant C,Line 1,High,In Progress,2,Spill in chemical storage area.
+2025-06-27,INC-1177,Plant B,Line 3,High,In Progress,6,Minor slip incident reported.
+2025-06-28,INC-1178,Plant C,Line 1,Low,Closed,6,Near-miss reported during shift change.
+2025-06-29,INC-1179,Plant B,Line 2,Critical,Open,7,Safety PPE non-compliance observed.
+2025-06-30,INC-1180,Plant C,Line 3,Low,Open,9,Machine maintenance overdue.
+2025-07-01,INC-1181,Plant A,Line 3,Medium,Open,8,Safety PPE non-compliance observed.
+2025-07-02,INC-1182,Plant C,Line 3,Medium,In Progress,4,Safety PPE non-compliance observed.
+2025-07-03,INC-1183,Plant B,Line 1,Low,Open,4,Near-miss reported during shift change.
+2025-07-04,INC-1184,Plant A,Line 3,High,In Progress,10,Near-miss reported during shift change.
+2025-07-05,INC-1185,Plant C,Line 2,High,In Progress,5,Spill in chemical storage area.
+2025-07-06,INC-1186,Plant A,Line 1,Low,Closed,9,Spill in chemical storage area.
+2025-07-07,INC-1187,Plant C,Line 3,High,Open,3,Safety PPE non-compliance observed.
+2025-07-08,INC-1188,Plant B,Line 3,Medium,Closed,2,Safety PPE non-compliance observed.
+2025-07-09,INC-1189,Plant B,Line 1,Low,In Progress,4,Spill in chemical storage area.
+2025-07-10,INC-1190,Plant B,Line 2,Medium,In Progress,0,Machine maintenance overdue.
+2025-07-11,INC-1191,Plant A,Line 1,Low,Closed,4,Spill in chemical storage area.
+2025-07-12,INC-1192,Plant A,Line 3,Low,In Progress,6,Near-miss reported during shift change.
+2025-07-13,INC-1193,Plant A,Line 1,Critical,In Progress,7,Minor slip incident reported.
+2025-07-14,INC-1194,Plant A,Line 2,Medium,Open,1,Machine maintenance overdue.
+2025-07-15,INC-1195,Plant C,Line 1,Low,Closed,7,Spill in chemical storage area.
+2025-07-16,INC-1196,Plant B,Line 2,High,Closed,0,Near-miss reported during shift change.
+2025-07-17,INC-1197,Plant A,Line 3,Low,Closed,0,Spill in chemical storage area.
+2025-07-18,INC-1198,Plant C,Line 3,Low,Open,8,Near-miss reported during shift change.
+2025-07-19,INC-1199,Plant B,Line 2,Critical,Open,9,Machine maintenance overdue.
+2025-07-20,INC-1200,Plant B,Line 1,Low,Open,8,Near-miss reported during shift change.
+2025-07-21,INC-1201,Plant A,Line 1,Low,In Progress,0,Spill in chemical storage area.
+2025-07-22,INC-1202,Plant B,Line 1,Medium,Open,9,Near-miss reported during shift change.
+2025-07-23,INC-1203,Plant B,Line 3,Medium,Closed,1,Machine maintenance overdue.
+2025-07-24,INC-1204,Plant A,Line 1,Low,Closed,10,Machine maintenance overdue.
+2025-07-25,INC-1205,Plant C,Line 2,Low,Open,7,Safety PPE non-compliance observed.
+2025-07-26,INC-1206,Plant C,Line 2,Critical,Closed,10,Minor slip incident reported.
+2025-07-27,INC-1207,Plant A,Line 2,High,Closed,2,Safety PPE non-compliance observed.
+2025-07-28,INC-1208,Plant A,Line 3,Low,Open,0,Minor slip incident reported.
+2025-07-29,INC-1209,Plant C,Line 3,Low,In Progress,1,Safety PPE non-compliance observed.
+2025-07-30,INC-1210,Plant B,Line 2,Critical,In Progress,0,Minor slip incident reported.
+2025-07-31,INC-1211,Plant B,Line 1,High,In Progress,0,Near-miss reported during shift change.
+2025-08-01,INC-1212,Plant A,Line 2,Low,Open,3,Spill in chemical storage area.
+2025-08-02,INC-1213,Plant A,Line 1,Critical,Closed,0,Minor slip incident reported.
+2025-08-03,INC-1214,Plant C,Line 1,Medium,Closed,8,Machine maintenance overdue.
+2025-08-04,INC-1215,Plant C,Line 3,Low,Open,2,Machine maintenance overdue.
+2025-08-05,INC-1216,Plant A,Line 2,High,In Progress,10,Minor slip incident reported.
+2025-08-06,INC-1217,Plant B,Line 2,Low,Closed,7,Minor slip incident reported.
+2025-08-07,INC-1218,Plant A,Line 2,Medium,Open,6,Near-miss reported during shift change.
+2025-08-08,INC-1219,Plant C,Line 2,Medium,In Progress,4,Near-miss reported during shift change.
+2025-08-09,INC-1220,Plant B,Line 3,High,In Progress,1,Spill in chemical storage area.
+2025-08-10,INC-1221,Plant A,Line 1,Critical,Closed,3,Minor slip incident reported.
+2025-08-11,INC-1222,Plant A,Line 1,Medium,Closed,10,Spill in chemical storage area.
+2025-08-12,INC-1223,Plant B,Line 3,Critical,Open,2,Machine maintenance overdue.
+2025-08-13,INC-1224,Plant A,Line 3,Low,In Progress,10,Safety PPE non-compliance observed.
+2025-08-14,INC-1225,Plant A,Line 2,High,Closed,4,Machine maintenance overdue.
+2025-08-15,INC-1226,Plant B,Line 3,Medium,Open,10,Safety PPE non-compliance observed.
+2025-08-16,INC-1227,Plant B,Line 3,Low,Open,1,Minor slip incident reported.
+2025-08-17,INC-1228,Plant A,Line 2,Low,Open,10,Machine maintenance overdue.
+2025-08-18,INC-1229,Plant B,Line 2,High,Closed,3,Near-miss reported during shift change.
+2025-08-19,INC-1230,Plant C,Line 2,Low,In Progress,6,Machine maintenance overdue.
+2025-08-20,INC-1231,Plant B,Line 1,Critical,Closed,7,Spill in chemical storage area.
+2025-08-21,INC-1232,Plant A,Line 2,Medium,Closed,8,Spill in chemical storage area.
+2025-08-22,INC-1233,Plant B,Line 2,Medium,In Progress,2,Machine maintenance overdue.
+2025-08-23,INC-1234,Plant C,Line 3,Low,Open,2,Machine maintenance overdue.
+2025-08-24,INC-1235,Plant A,Line 2,High,In Progress,10,Minor slip incident reported.
+2025-08-25,INC-1236,Plant A,Line 1,Medium,Closed,6,Safety PPE non-compliance observed.
+2025-08-26,INC-1237,Plant A,Line 2,Medium,Open,6,Near-miss reported during shift change.
+2025-08-27,INC-1238,Plant C,Line 1,High,Open,2,Minor slip incident reported.
+2025-08-28,INC-1239,Plant C,Line 3,High,In Progress,8,Machine maintenance overdue.
+2025-08-29,INC-1240,Plant B,Line 1,Medium,In Progress,9,Near-miss reported during shift change.
+2025-08-30,INC-1241,Plant B,Line 1,High,Closed,2,Machine maintenance overdue.
+2025-08-31,INC-1242,Plant B,Line 2,High,In Progress,6,Machine maintenance overdue.
+2025-09-01,INC-1243,Plant B,Line 3,Low,In Progress,0,Spill in chemical storage area.
+2025-09-02,INC-1244,Plant A,Line 3,Critical,In Progress,4,Minor slip incident reported.
+2025-09-03,INC-1245,Plant B,Line 3,High,Closed,4,Machine maintenance overdue.
+2025-09-04,INC-1246,Plant A,Line 2,High,Closed,5,Machine maintenance overdue.
+2025-09-05,INC-1247,Plant A,Line 1,High,Closed,5,Spill in chemical storage area.
+2025-09-06,INC-1248,Plant C,Line 1,Medium,In Progress,1,Safety PPE non-compliance observed.
+2025-09-07,INC-1249,Plant A,Line 2,Low,Closed,6,Minor slip incident reported.
+2025-09-08,INC-1250,Plant C,Line 1,High,Open,1,Spill in chemical storage area.
+2025-09-09,INC-1251,Plant B,Line 1,Critical,In Progress,3,Minor slip incident reported.
+2025-09-10,INC-1252,Plant C,Line 1,Low,In Progress,6,Near-miss reported during shift change.
+2025-09-11,INC-1253,Plant C,Line 2,Medium,Open,1,Minor slip incident reported.
+2025-09-12,INC-1254,Plant B,Line 2,High,Open,10,Near-miss reported during shift change.
+2025-09-13,INC-1255,Plant A,Line 3,Low,Closed,8,Machine maintenance overdue.
+2025-09-14,INC-1256,Plant C,Line 1,Low,Open,6,Machine maintenance overdue.
+2025-09-15,INC-1257,Plant A,Line 2,Critical,Closed,5,Spill in chemical storage area.
+2025-09-16,INC-1258,Plant B,Line 1,Critical,In Progress,4,Near-miss reported during shift change.
+2025-09-17,INC-1259,Plant B,Line 2,High,Open,9,Near-miss reported during shift change.
+2025-09-18,INC-1260,Plant A,Line 2,Medium,Closed,10,Minor slip incident reported.
+2025-09-19,INC-1261,Plant C,Line 1,Critical,Closed,2,Machine maintenance overdue.
+2025-09-20,INC-1262,Plant A,Line 1,Critical,Open,2,Safety PPE non-compliance observed.
+2025-09-21,INC-1263,Plant A,Line 2,Low,Open,10,Spill in chemical storage area.
+2025-09-22,INC-1264,Plant C,Line 2,Low,Closed,5,Safety PPE non-compliance observed.
+2025-09-23,INC-1265,Plant B,Line 3,Low,Open,10,Machine maintenance overdue.
+2025-09-24,INC-1266,Plant A,Line 3,Medium,Closed,0,Machine maintenance overdue.
+2025-09-25,INC-1267,Plant B,Line 2,Medium,In Progress,4,Machine maintenance overdue.
+2025-09-26,INC-1268,Plant C,Line 3,Medium,Closed,8,Machine maintenance overdue.
+2025-09-27,INC-1269,Plant C,Line 1,Medium,Closed,1,Machine maintenance overdue.
+2025-09-28,INC-1270,Plant B,Line 3,Medium,In Progress,6,Near-miss reported during shift change.
+2025-09-29,INC-1271,Plant A,Line 3,Medium,Closed,3,Minor slip incident reported.
+2025-09-30,INC-1272,Plant A,Line 2,Low,In Progress,10,Near-miss reported during shift change.
+2025-10-01,INC-1273,Plant C,Line 3,Medium,Closed,2,Near-miss reported during shift change.
+2025-10-02,INC-1274,Plant B,Line 1,Critical,In Progress,7,Minor slip incident reported.
+2025-10-03,INC-1275,Plant A,Line 3,High,In Progress,7,Near-miss reported during shift change.
+2025-10-04,INC-1276,Plant C,Line 2,Low,Closed,10,Near-miss reported during shift change.
+2025-10-05,INC-1277,Plant A,Line 3,High,Open,8,Minor slip incident reported.
+2025-10-06,INC-1278,Plant B,Line 3,Medium,Closed,7,Safety PPE non-compliance observed.
+2025-10-07,INC-1279,Plant A,Line 1,Critical,Closed,10,Machine maintenance overdue.
+2025-10-08,INC-1280,Plant C,Line 2,High,In Progress,10,Safety PPE non-compliance observed.
+2025-10-09,INC-1281,Plant A,Line 2,High,Open,9,Machine maintenance overdue.
+2025-10-10,INC-1282,Plant C,Line 3,Low,Open,10,Spill in chemical storage area.
+2025-10-11,INC-1283,Plant B,Line 3,Low,Open,9,Spill in chemical storage area.
+2025-10-12,INC-1284,Plant A,Line 3,Medium,In Progress,7,Minor slip incident reported.
+2025-10-13,INC-1285,Plant C,Line 3,Low,Open,8,Minor slip incident reported.
+2025-10-14,INC-1286,Plant C,Line 1,Medium,In Progress,2,Near-miss reported during shift change.
+2025-10-15,INC-1287,Plant A,Line 3,Critical,Open,3,Minor slip incident reported.
+2025-10-16,INC-1288,Plant B,Line 2,Low,In Progress,1,Safety PPE non-compliance observed.
+2025-10-17,INC-1289,Plant A,Line 1,Medium,Closed,8,Minor slip incident reported.
+2025-10-18,INC-1290,Plant A,Line 1,Low,Open,9,Spill in chemical storage area.
+2025-10-19,INC-1291,Plant A,Line 2,Critical,In Progress,8,Minor slip incident reported.
+2025-10-20,INC-1292,Plant A,Line 3,Medium,In Progress,0,Machine maintenance overdue.
+2025-10-21,INC-1293,Plant C,Line 1,Medium,In Progress,1,Minor slip incident reported.
+2025-10-22,INC-1294,Plant A,Line 2,Critical,In Progress,10,Minor slip incident reported.
+2025-10-23,INC-1295,Plant B,Line 2,Critical,In Progress,1,Safety PPE non-compliance observed.
+2025-10-24,INC-1296,Plant A,Line 1,Critical,Open,7,Near-miss reported during shift change.
+2025-10-25,INC-1297,Plant B,Line 2,Critical,In Progress,7,Near-miss reported during shift change.
+2025-10-26,INC-1298,Plant A,Line 2,High,Open,4,Spill in chemical storage area.
+2025-10-27,INC-1299,Plant C,Line 2,Low,In Progress,3,Machine maintenance overdue.

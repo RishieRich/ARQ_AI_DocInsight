@@ -1,0 +1,20 @@
+Project: AI Document Summary Agent
+Owner: Rishi
+Context:
+This file is a plain-text notes file used to test the ingestion and parsing
+pipeline for the AI agent.
+
+The content is intentionally simple, but contains multiple paragraphs,
+bullet-like lines, and some dates for testing:
+
+- 2025-01-01: Initial setup of the project.
+- 2025-01-05: Added ingestion and parsing agents.
+- 2025-01-10: Started working on summarization prompts.
+
+Key goals:
+1. Support multiple file formats (PDF, DOCX, CSV, XLSX, TXT).
+2. Normalize content into a common internal JSON structure.
+3. Use LLMs to generate summaries, insights, and action items.
+4. Keep the architecture modular and agentic for future scaling.
+
+End of sample notes.
