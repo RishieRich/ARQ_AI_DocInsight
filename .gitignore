@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+logs/
+.streamlit/
+.DS_Store
+*.log
+*.tmp
